@@ -1,6 +1,6 @@
 # [Words Tell Art](https://www.wordstell.art/)
 
-WTA is an artistic essai which combine web3, ai and user generated content all together.
+WTA is an artistic experiment combining web3, ai and user generated content all together.
 
 Users can collect WORD NFT representing a given word and merge them together into an Art thanks to midjourney AI image generator.
 
