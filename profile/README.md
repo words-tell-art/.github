@@ -16,7 +16,7 @@ WTA Craft ollection available on [Opensea](https://opensea.io/collection/words-t
 ## ETH Smart-Contract
 #### Mainnet deployed contract addresses:
 - WORD [Zora] deployed to: `0xd5e5a0d5ad5048af6e0f9479603eacbdbcf400ce`
-- ART [custom] deployed to: ``
+- ART [custom] deployed to: `0x29434F7628864Ef44fc6Ce20A2f9D28f90Bb85ac`
 #### Goerli deployed contract addresses:
 - WORD [Zora] deployed to: `0x8186b1b1397acd543a990347b01d5ccf29490a66`
 - ART [custom] deployed to: `0xe4A4786956B7643b05642f3c3fE10d9298c65E48`
